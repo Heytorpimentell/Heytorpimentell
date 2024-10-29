@@ -28,12 +28,12 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
-<a href="https://github.com/Heytorpimentell/readme">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
+<a href="https://github.com/Heytorpimentell?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heytorpimentel&show_icons=true&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heytorpimentel&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
+
+![Snake animation](https://github.com/Heytorpimentell)
 
 
 
