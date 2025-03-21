@@ -1,33 +1,39 @@
-<h1 align="center">Salve!, Heytor pimentel</h1>
-<h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac no Embarque Digital.</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a020f0&height=120&section=header"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mf081&label=Profile%20views&color=0e75b6&style=flat" alt="mf081" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a020f0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+MEU+NOME+É+HEYTOR+PIMENTEL;Seja+bem-vindo(a)!;+:%29)](https://git.io/typing-svg)
 
-<h3 align="center">Conecte-se comigo:</h3>
-<p align="center">
-  <a href="mailto:heytorpimentelnascimento@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/heytor-pimentel-b121a125b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+---
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+</div>
 
-<h3 align="center">Idiomas e ferramentas:</h3>
-<p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
-
-<a href="https://github.com/Heytorpimentell?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heytorpimentel&show_icons=true&theme=dracula" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heytorpimentel&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
+<div align="center">
+<a href="https://github.com/Heytorpimentell"target="_blank"> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Heytorpimentell&show_icons=true&count_private=true&hide_border=true&title_color=a020f0&icon_color=a020f0&text_color=c9d1d9&bg_color=0d1117" alt="Heytor pimentel Github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Heytorpimentell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+<div>
 
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Heytorpimentell&bg_color=000000&color=a020f0&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
+
+### 📫 **Conecte-se comigo**
+<a href="https://www.instagram.com/happ.joi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heytor-pimentel-b121a125b/)  
+📧 **Email:** heytorpimentelnascimento@hotmail.com
+
+---
+
+### ⚡ **Sobre mim**
+💡 Buscando minha primeira experiência profissional na área de tecnologia  
+💡 Sempre aprendendo e explorando novas tecnologias  
+💡 Gosto de criar soluções práticas e eficientes  
