@@ -17,7 +17,6 @@
 <div align="center">
 <a href="https://github.com/Heytorpimentell"target="_blank"> 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Heytorpimentell&show_icons=true&count_private=true&hide_border=true&title_color=a020f0&icon_color=a020f0&text_color=c9d1d9&bg_color=0d1117" alt="Heytor pimentel Github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Heytorpimentell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 <div>
 
 
@@ -32,6 +31,12 @@
 📧 **Email:** heytorpimentelnascimento@hotmail.com
 
 ---
+
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### ⚡ **Sobre mim**
 💡 Buscando minha primeira experiência profissional na área de tecnologia  
